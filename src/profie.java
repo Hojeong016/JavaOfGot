@@ -5,7 +5,7 @@ public class profie {
     int age;
     public static void main(String [] args){
         profie profile = new profie();
-        profile.setName("Min");
+        profile.setName("Mln");
         profile.setAge(20);
 
         profile.printName();
